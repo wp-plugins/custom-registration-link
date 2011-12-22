@@ -6,18 +6,15 @@ Requires at least: 3.0.0
 Tested up to: 3.2.0
 Stable tag: 1.0.0
 
-Allows you to modify the registration link of your WordPress website.
-This will result in greatly reduced spam registrations.
-The default registration link is “wp-login.php?action=register” and is heavily targeted by spam-bots.
-This plugin will change this link to another one and make the old one invalid.
+Let you modify the registration link of your WordPress website.
 
 == Description ==
 
 <strong>Introduction</strong>
 <p>
-Custom Registration Link allows you to modify the registration link of your WordPress website.
+Custom Registration Link let you modify the registration link of your WordPress website.
 This will result in greatly reduced spam registrations.
-The default registration link is “wp-login.php?action=register” and is heavily targeted by spam-bots.
+The default registration link is "wp-login.php?action=register" and is heavily targeted by spam-bots.
 This plugin will change this link to another one and make the old one invalid.
 </p>
 
@@ -25,8 +22,8 @@ This plugin will change this link to another one and make the old one invalid.
 <p>
 User agents who will try to access the normal registration link will be redirected to a page telling them
 that registration is disabled (wp-login.php?registration=disabled), in order to reduce spam registrations
-and with the potential benefit that learning spam-bots will not try next time as they will “think” that your website
-doesn’t accept registrations. Normal visitors will go to the new registration link.
+and with the potential benefit that learning spam-bots will not try next time as they will "think" that your website
+doesn't accept registrations. Normal visitors will go to the new registration link.
 The day I installed Custom Registration Link, all of my spam-bot registrations suddenly stopped.
 </p>
 
